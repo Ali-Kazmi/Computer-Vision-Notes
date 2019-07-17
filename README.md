@@ -15,16 +15,27 @@ WHY: I’m taking this to develop experience in Matlab and to learn some of the 
 Outline of the course: (designed by the robo2x team. Instructors: Drs. Jianbo Shi, Kostas Danillidis, and Dan Lee. Available for free on edx, with charge for access to assignments and a certificate! Totally recommended). I put this here as documentation of the topics I plan to study. Note I may take a little more or less time than recommended here, as some of it is WAY out of my league. My goal is learning :). I will mark sections here as done only after doing the labs, projects, videos, and notes.  
 
 Week 1: camera geometry and color sensing  (done) 
-W2: Fourier transforms, image convolution, edge detection 
+
+W2: Fourier transforms, image convolution, edge detection
+
 W3: edge detection part 2, image pyramids 
+
 W4: Feature Detection: filters, Sift, HOG
+
 W5: Geometrical Transformation: Affine, Protective, and Ransac 
+
 W6: Optical Flow Estimation 
+
 W7: Image Morphing
+
 W8: Image Blending
+
 W9: Image Carving
+
 W10: Probability, Regression, Classification 
+
 W11: SVM and Object Recognition 
+
 W12: CNN's 
 
 These notes are not intended as teaching material at all. I’m doing these to learn and review the material so that I can pass the class (60% is passing, but i’m hoping to get around 70-80%. Normally I would aim higher but considering it’s a masters level class im just trying to do my best and learn). I’m hoping that these will be accurate and useful to someone, but that might just be wishful thinking haha. If anyone reads this and wants to improve it or finds an error, let me know! 
