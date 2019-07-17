@@ -1,8 +1,6 @@
 # Computer-Vision-Notes
 Here I will be posting notes on a computer vision class I am taking summer 2019. See readme for details 
 
-Hi! Welcome to my notes on Computer Vision. 
-
 These notes will follow UPenn’s Robotics: Vision Intelligence and Machine learning (ROBO2x). 
 I’m taking this on edx Summer 2019 (and likely fall 2019, as it is a 3 month class that i’m starting in July). I put down $300 up front for access to the programming assignments and quizzes. I’m not sure if that’s worth it yet, but compared to the price of a real class that’s nothing and at the very least it will keep me motivated! 
 
@@ -38,7 +36,7 @@ W11: SVM and Object Recognition
 
 W12: CNN's 
 
-These notes are not intended as teaching material at all. I’m doing these to learn and review the material so that I can pass the class (60% is passing, but i’m hoping to get around 70-80%. Normally I would aim higher but considering it’s a masters level class im just trying to do my best and learn). I’m hoping that these will be accurate and useful to someone, but that might just be wishful thinking haha. If anyone reads this and wants to improve it or finds an error, let me know! 
+These notes are not intended as teaching material at all. I’m doing these to learn and review the material so that I can pass the class (60% is passing, but i’m hoping to get around 70-80%. Normally I would aim higher but considering it’s a masters level class im just trying to do my best and learn). I’m hoping that these will be accurate and useful to someone, but that might just be wishful thinking haha. If anyone reads this and wants to improve it or finds an error, let me know! Also, to be clear upfront, I will not be posting any of the course code here. 
 
 
 
