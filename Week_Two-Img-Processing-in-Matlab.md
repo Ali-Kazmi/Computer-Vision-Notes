@@ -1,4 +1,4 @@
-#Week Two: Image Processing in MATLAB
+# Week Two: Image Processing in MATLAB
 
 
 ## Intro 
