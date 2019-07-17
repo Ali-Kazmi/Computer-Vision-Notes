@@ -1,5 +1,5 @@
 # Computer-Vision-Notes
-Here I will be posting notes on a computer vision class I am taking summer 2019. See readme for details 
+Here I will be posting notes on a computer vision class I am taking summer 2019. 
 
 These notes will follow UPenn’s Robotics: Vision Intelligence and Machine learning (ROBO2x). 
 I’m taking this on edx Summer 2019 (and likely fall 2019, as it is a 3 month class that i’m starting in July). I put down $300 up front for access to the programming assignments and quizzes. I’m not sure if that’s worth it yet, but compared to the price of a real class that’s nothing and at the very least it will keep me motivated! 
