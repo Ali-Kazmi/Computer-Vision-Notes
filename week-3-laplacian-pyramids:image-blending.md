@@ -1,4 +1,4 @@
-#Laplacian Pyramids 
+# Laplacian Pyramids 
 Now that we have reduction and expansion, we want to make a laplacian pyramid from the gaussian pyramid. Video 3.8
 
 - the goal is an image that 
