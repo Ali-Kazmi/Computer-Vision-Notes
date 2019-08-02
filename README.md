@@ -36,7 +36,7 @@ W11: SVM and Object Recognition
 
 W12: CNN's 
 
-These notes are not intended as teaching material at all. I’m doing these to learn and review the material so that I can pass the class (60% is passing, but i’m hoping to get around 70-80%. Normally I would aim higher but considering it’s a masters level class im just trying to do my best and learn). I’m hoping that these will be accurate and useful to someone, but that might just be wishful thinking haha. If anyone reads this and wants to improve it or finds an error, let me know! Also, to be clear upfront, I will not be posting any of the course code here. 
+These notes are not intended as teaching material at all. I’m doing these to learn and review the material so that I can pass the class (60% is passing, but i’m hoping to get around 70-80%. Normally I would aim higher but considering it’s a masters level class and im doing it at 3x the normal speed i'm just trying to do my best and learn). I’m hoping that these will be accurate and useful to someone, but that might just be wishful thinking haha. If anyone reads this and wants to improve it or finds an error, let me know! Also, to be clear upfront, I will not be posting any of the course code here. 
 
 
 
